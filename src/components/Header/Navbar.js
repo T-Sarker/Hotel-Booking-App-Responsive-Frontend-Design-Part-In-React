@@ -16,9 +16,9 @@ const Navbar = () => {
 
           <div className="userBar">
 
-            <NavLink className="btn btn-outline-info  mx-2 text-uppercase" to='/register'><FaUserPlus /> Register</NavLink>
+            <NavLink className="btn btn-outline-dark  mx-2 text-uppercase" to='/register'><FaUserPlus /> Register</NavLink>
 
-            <NavLink className="btn btn-outline-info mx-2 text-uppercase" to='/Login'><FaUserTie /> Login</NavLink>
+            <NavLink className="btn btn-outline-dark mx-2 text-uppercase" to='/Login'><FaUserTie /> Login</NavLink>
 
           </div>
 
