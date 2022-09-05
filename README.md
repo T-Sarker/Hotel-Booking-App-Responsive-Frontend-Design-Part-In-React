@@ -18,10 +18,10 @@ An in-depth paragraph about your project and overview of use.
 
 ### Dependencies
 
-* [![React][React.js]][React-url]
+* React
 * React-router-dom
-*React-date-range
-*React-icons
+* React-date-range
+* React-icons
 
 
 ### Installing
